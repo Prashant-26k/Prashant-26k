@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I'm Prashant Kharkwal.<br><br>🎓 4th-year B.Tech student interested in frontend development . <br>🌱 Learning software development through hands-on projects.  <br>💬 Ask me about programming fundamentals, DSA, and React basics. <br>📫 How to reach me: LinkedIn – www.linkedin.com/in/prashant-26k <br>⚡ Fun fact: I enjoy Playing Cricket when I am not coding.<br>
+Hi there 👋<br><br>Nice meeting you, I'm Prashant Kharkwal.<br><br>🎓 4th-year B.Tech student interested in full stack development . <br>🌱 Learning software development through hands-on projects.  <br>💬 Ask me about programming fundamentals, DSA, and React basics. <br>📫 How to reach me: LinkedIn – www.linkedin.com/in/prashant-26k <br>⚡ Fun fact: I enjoy Playing Cricket when I am not coding.<br>
 
 
 ## 🌐 Socials:
