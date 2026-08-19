@@ -1,83 +1,38 @@
-<h1 align="center">
-  <pre>
-██████╗ ██████╗  █████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗
-██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝
-██████╔╝██████╔╝███████║███████╗███████║███████║██╔██╗ ██║   ██║   
-██╔═══╝ ██╔══██╗██╔══██║╚════██║██╔══██║██╔══██║██║╚██╗██║   ██║   
-██║     ██║  ██║██║  ██║███████║██║  ██║██║  ██║██║ ╚████║   ██║   
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   
-  </pre>
-</h1>
+# Hi 👋, I'm Prashant Kharkwal
 
-<h3 align="center">Hey there, I'm Prashant 👋</h3>
-<p align="center">Aspiring Software Engineer · Full-Stack Developer · AI Enthusiast</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prashant-26k&label=Profile views&color=0e75b6&style=flat" alt="Prashant-26k" /> </p>
 
-<p align="center">
-  <b>Building AI-powered, production-grade web apps</b>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prashant-26k" alt="Prashant-26k" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/Prashant_26k" target="blank"><img src="https://img.shields.io/twitter/follow/Prashant_26k?logo=twitter&style=for-the-badge" alt="Prashant_26k" /></a> </p>
+
+- 🔭 I'm currently working on **A SpringBoot project.**
+
+- 🌱 I'm currently learning **Java SpringBoot.**
+
+- 🤝 I'm looking for help with **learning System Design.**
+
+- 💬 Ask me about **DSA, System Design and web development.**
+
+- 📫 How to reach me **prashantkharkwal@gmail.com**
+
+- ⚡ Fun fact **Aside from Programming I love to Play Cricket. 🏏**
+
+- 📄 Know about my experiences **[https://docs.google.com/document/d/1o0zwzDG2_6NS9ubhXJtkj0lj1etvOcaOsY7mof2alFQ/edit?usp=sharing](https://docs.google.com/document/d/1o0zwzDG2_6NS9ubhXJtkj0lj1etvOcaOsY7mof2alFQ/edit?usp=sharing)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Prashant-26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Prashant-26k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prashant-26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-26k" height="30" width="40" /></a>
+<a href="https://twitter.com/Prashant_26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Prashant_26k" height="30" width="40" /></a>
+<a href="https://leetcode.com/Prince_26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prince_26k" height="30" width="40" /></a>
 </p>
 
-<hr>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
 
-## 🚀 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-26k&show_icons=true&locale=en&layout=compact" alt="Prashant-26k" /></p>
 
-```yaml
-name: Prashant
-role: Final-Year B.Tech CSE Student (2026)
-location: Delhi NCR, India
-currently_learning:
-  - System Design
-  - Advanced DSA
-  - Spring Boot
-ask_me_about:
-  - MERN Stack
-  - REST APIs & OAuth
-  - AI-Integrated Applications
-fun_fact: Turning coursework into deployed products, one bug at a time ⚡
-```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashant-26k&show_icons=true&locale=en" alt="Prashant-26k" /></p>
 
-## 🛠️ Tech Stack
-
-**Languages**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Frameworks**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-**Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-## 📌 Featured Projects
-
-- **[FlashGenius](https://github.com/YOUR_USERNAME/flashgenius)** — AI-powered flashcard app using the Gemini API, Google OAuth, MongoDB, deployed with CI/CD on Netlify.
-- **[Neighbour-Adaptive LSB Steganography Tool](https://github.com/YOUR_USERNAME/steganography-tool)** — A custom steganography analysis tool with an adaptive LSB embedding algorithm and Streamlit frontend.
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-26k&" alt="Prashant-26k" /></p>
