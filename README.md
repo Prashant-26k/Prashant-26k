@@ -1,7 +1,5 @@
 # Hi 👋, I'm Prashant Kharkwal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prashant-26k&label=Profile views&color=0e75b6&style=flat" alt="Prashant-26k" /> </p>
-
 <p align="left"> <a href="https://twitter.com/Prashant_26k" target="blank"><img src="https://img.shields.io/twitter/follow/Prashant_26k?logo=twitter&style=for-the-badge" alt="Prashant_26k" /></a> </p>
 
 - 🔭 I'm currently working on **A SpringBoot project.**
