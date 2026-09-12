@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Aside from Programming I love to Play Cricket. 🏏**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1o0zwzDG2_6NS9ubhXJtkj0lj1etvOcaOsY7mof2alFQ/edit?usp=sharing](https://docs.google.com/document/d/1o0zwzDG2_6NS9ubhXJtkj0lj1etvOcaOsY7mof2alFQ/edit?usp=sharing)**
+- 📄 Know about my experiences **<a href="https://docs.google.com/document/d/1o0zwzDG2_6NS9ubhXJtkj0lj1etvOcaOsY7mof2alFQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
